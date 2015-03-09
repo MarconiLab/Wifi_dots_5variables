@@ -1,3 +1,5 @@
+//Author: Rodrigo Carbajales MarconiLab
+
 #include <WiFi.h>
 
  //Dots configuration
